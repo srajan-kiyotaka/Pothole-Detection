@@ -1,4 +1,3 @@
-pothole_detection_model_prototype_1_adam.h5
-pothole_detection_model_prototype_2_adam.h5
-my_model.h5
-pothole_detection_model_prototype_2_sgd.h5
+*.h5
+Current_Best_Model/
+Model_Prototype/
